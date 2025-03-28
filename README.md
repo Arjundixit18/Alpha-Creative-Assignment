@@ -1,4 +1,3 @@
-# Alpha-Creative-Assignment
 Created a Doctor Survey Campaign Shiny App using R 
 
 # Doctor Survey Campaign (Shiny App)
